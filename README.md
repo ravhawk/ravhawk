@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ravhawk AKA: Will
-- 👀 I’m interested in ... Learning to code to do freelance/sidegig work
-- 🌱 I’m currently learning ...front end development
-- 💞️ I’m looking to collaborate on ...getting better at coding in any way possible to help me get better and to help others along the way. 
+- 👀 I’m interested in ... learning to code and develop my own games via Unity.
+- 🌱 I’m currently learning ...c# and Unity
+- 💞️ I’m looking to collaborate on ...game development and C# Unity based games.
 - 📫 How to reach me ...reyktraveler@gmail.com
 
 <!---
